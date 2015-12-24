@@ -16,6 +16,11 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+# =========================
+# Crestron Misc Files
+# =========================
+*.ASV
+*.lpz
 
 # =========================
 # Operating System Files
@@ -45,3 +50,4 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+SPlsWork/
