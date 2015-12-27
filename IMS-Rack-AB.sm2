@@ -4313,8 +4313,9 @@ ObjVer=1
 PrH=53
 CF=2
 Cmn1=xPanel IMS\\
-mC=1
+mC=2
 C1=84
+C2=96
 ]
 [
 ObjTp=Sm
@@ -5156,6 +5157,16 @@ P1=101d
 P2=101d
 P3=101d
 P4=101d
+]
+[
+ObjTp=Sm
+H=96
+SmC=156
+Nm=SUBSYSTEM
+ObjVer=1
+PrH=66
+CF=2
+Cmn1=Zone Control
 ]
 [
 ObjTp=CED
