@@ -1,0 +1,12 @@
+Crosspoint listing for C:\Users\abonde\Documents\GitHub\IMS-Rack-AB\IMS-Rack-AB.SMW
+
+Note:  Crosspoint symbols with EquipID or ControlID set to 0d are not routeable.
+
+Equipment Crosspoint Routing.                                                                       EquipID
+===========================================================================================================
+S-2.1.5                                                                                             101
+
+Control Crosspoint Routing.                                                                         ControlID
+=============================================================================================================
+S-3.1.1.1                                                                                           1100
+
