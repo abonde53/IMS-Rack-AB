@@ -241,11 +241,11 @@ CedVer=1
 ;================================================================================
 [
 ObjTp=Symbol
-Name=IMS-Rack-AB-xPanel_CEN-TRACK Radio_Dynamic Button List Horizontal.ced
-Hint=Dynamic Button List Horizontal (Smart Object ID=11)
+Name=IMS-Rack-AB-xPanel_CEN-TRACK Radio_AMFM Dynamic Button List Horizontal.ced
+Hint=AMFM Dynamic Button List Horizontal (Smart Object ID=11)
 Code=3
 GUID=F92F21DE-8B8B-4EDF-8427-140C6C8ED9B6
-SmplCName=IMS-Rack-AB-xPanel_CEN-TRACK Radio_Dynamic Button List Horizontal.ced
+SmplCName=IMS-Rack-AB-xPanel_CEN-TRACK Radio_AMFM Dynamic Button List Horizontal.ced
 SMWRev=4.02.20
 Expand=expand_random
 HelpID=10111
@@ -728,7 +728,7 @@ Sgn=0
 [
 ObjTp=CED
 H=3
-Name=IMS-Rack-AB-xPanel_CEN-TRACK Radio_Dynamic Button List Horizontal.ced
+Name=IMS-Rack-AB-xPanel_CEN-TRACK Radio_AMFM Dynamic Button List Horizontal.ced
 ;Cedver is the version of the Smart Graphics control, not the CED file format.
 ;If the control definition changes, increment this.
 CedVer=1
