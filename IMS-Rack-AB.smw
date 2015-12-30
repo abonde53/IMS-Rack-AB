@@ -20,13 +20,13 @@ SLNd=3
 PrNm=IMS-Rack-AB.smw
 CmVr=3.03
 DbVr=53.05.005.00
-DvcDbVr=70.00.004.00
+DvcDbVr=70.05.003.00
 OpVr=MC3 1.011.0023
 PgmNm=AB
 DlrNm=CompuNet, Inc.
 CltNm=IMS-Rack-AB
-SmVr=973
-DvVr=973
+SmVr=975
+DvVr=975
 TpN1=1
 TpN2=2
 TpN3=3
@@ -2554,6 +2554,7 @@ SmH=65
 RelStat=Release
 ProdLine=Smart Graphics
 DbH=7
+UiH=1
 CsH=5
 EtH=5
 VtpH=1
@@ -3456,6 +3457,12 @@ Mnf=Crestron
 Mdl=CEN-TRACK-AMFMXM
 ]
 [
+ObjTp=Ui
+H=1
+DvH=822
+PNm=C:\Users\abonde\Documents\GitHub\IMS-Rack-AB\IMS-Rack-AB-xPanel.vtp
+]
+[
 ObjTp=Cs
 H=1
 DvH=700
@@ -3509,6 +3516,20 @@ Nm1=\
 Sx1=0
 Sy1=0
 Mx1=0
+]
+[
+ObjTp=Bw
+H=1
+Lx=0
+Ly=0
+Rx=1501
+Ry=913
+Xm=-1
+Ym=-1
+SH=65
+Z=100
+Ht=1
+Hi=1
 ]
 [
 ObjTp=Et
