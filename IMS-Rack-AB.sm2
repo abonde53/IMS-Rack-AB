@@ -4926,7 +4926,6 @@ I56=775
 I59=770
 I70=887
 I71=888
-I74=937
 I90=916
 I112=281
 I113=438
@@ -17958,11 +17957,6 @@ Nm=dev_CEN-TRACK_AMFM_Tune_Search_is_On
 ObjTp=Sg
 H=936
 Nm=dev_CEN-TRACK_AMFM_Tune_Scan_is_On
-]
-[
-ObjTp=Sg
-H=937
-Nm=dev_CEN-TRACK_AMFM_Tune_Mode_is_On
 ]
 [
 ObjTp=Sg
