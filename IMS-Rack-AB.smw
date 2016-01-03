@@ -5816,7 +5816,7 @@ ObjVer=1
 PrH=106
 CF=2
 Cmn1=Source Control\\
-mC=18
+mC=19
 C1=162
 C2=165
 C3=169
@@ -5835,6 +5835,7 @@ C15=204
 C16=205
 C17=223
 C18=250
+C19=255
 ]
 [
 ObjTp=Sm
@@ -12864,6 +12865,16 @@ CF=2
 Cmn1=XM
 mC=1
 C1=161
+]
+[
+ObjTp=Sm
+H=255
+SmC=156
+Nm=SUBSYSTEM
+ObjVer=1
+PrH=96
+CF=2
+Cmn1=NSP
 ]
 [
 ObjTp=Sm

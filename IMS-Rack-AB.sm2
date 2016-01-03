@@ -4696,12 +4696,11 @@ ObjVer=1
 PrH=4
 CF=2
 Cmn1=Equipment
-mC=5
+mC=4
 C1=57
 C2=58
 C3=158
-C4=255
-C5=60
+C4=60
 ]
 [
 ObjTp=Sm
@@ -12865,16 +12864,6 @@ CF=2
 Cmn1=XM
 mC=1
 C1=161
-]
-[
-ObjTp=Sm
-H=255
-SmC=156
-Nm=SUBSYSTEM
-ObjVer=1
-PrH=52
-CF=2
-Cmn1=NSP eID 401\\
 ]
 [
 ObjTp=Sm
