@@ -5,7 +5,6 @@ Note:  Crosspoint symbols with EquipID or ControlID set to 0d are not routeable.
 Equipment Crosspoint Routing.                                                                       EquipID
 ===========================================================================================================
 S-2.1.5                                                                                             101
-S-2.2.1                                                                                             201
 S-2.3.1                                                                                             301
 S-18.1 in macro S-2.3.3.1 (Module File C:\Program Files (x86)\Crestron\Cresdb\Modules\AMFM          304
  (CEN-TRACK) Hardware Interface v2.0.cmc)                                                           
